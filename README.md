@@ -34,6 +34,12 @@ Git • Postman
   📽️ [Demo](https://drive.google.com/file/d/1i5o_RbYnsLBNvV2apCTU96zsQra3Aylz/view?usp=sharing)
 
 ---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-877&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-877&theme=tokyonight" />
+</p>
 
 ## 🏆 Achievements
 
